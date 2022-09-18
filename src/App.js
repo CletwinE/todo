@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import Todo from './components/todo';
 import 'bootstrap/dist/css/bootstrap.min.css';
