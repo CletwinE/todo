@@ -5,6 +5,9 @@
 }
 
 
+.todo{
+  font-weight: bolder;
+}
 
 .butt{
   position: absolute;
@@ -23,9 +26,9 @@
 
 
 .header{
-  height: 200px;
+  height: 250px;
   width: 100%;
-  background-color : #E9EEF6;
+  background-color : #bff4ff;
   padding-top: 50px;
   min-width: 375px;
 }
@@ -33,7 +36,7 @@
 
 .image{
   width: 100%;
-
+padding-top: 100px;
 }
 
 .imagecont{
@@ -95,7 +98,7 @@
 }
 
 .clock{
-  background-color: #c9dfff;
+  background-color: #73e8ff;
   width: fit-content;
   padding: 10px;
   font-size: 1.5rem;
@@ -105,3 +108,13 @@
   margin: auto;
   margin-top: -30px;
 }
+
+
+.bg{
+  opacity: 0.1;
+  position: absolute;
+  left: 0;
+  width: 100%;
+  padding-top: 1px;
+}
+
