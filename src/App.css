@@ -30,6 +30,18 @@
   min-width: 375px;
 }
 
+
+.image{
+  width: 100%;
+
+}
+
+.imagecont{
+  display: flex;
+  justify-content: center;
+  min-width: 375px;
+}
+
 .card-container{
   height: 300px;
   width: 300px;
