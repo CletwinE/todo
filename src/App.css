@@ -36,7 +36,7 @@
 
 .image{
   width: 100%;
-padding-top: 100px;
+  padding-top: 100px;
 }
 
 .imagecont{
@@ -93,7 +93,6 @@ padding-top: 100px;
   width: 100%;
   display: flex;
   flex-wrap: wrap;
-  background-color: #F6F7F8;
   padding : 40px 100px;
 }
 
